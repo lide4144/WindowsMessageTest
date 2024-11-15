@@ -1,0 +1,6 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <!-- 暂时为空，后续添加 QML 文件 -->
+    </qresource>
+</RCC> 

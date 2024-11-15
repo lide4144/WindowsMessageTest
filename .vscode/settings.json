@@ -1,0 +1,12 @@
+{
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": false,
+    "files.eol": "\n",
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "E:/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        "Qt6_DIR": "E:/Qt/6.8.0/msvc2022_64/lib/cmake/Qt6"
+    },
+    "cmake.generator": "Visual Studio 17 2022",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.configureOnOpen": true
+}
